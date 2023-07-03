@@ -32,6 +32,8 @@ pyodbc==4.0.34
 nest-asyncio==1.5.1
 notebook==6.2.0
 packaging==20.9
+pandas==1.5.3
+SQLAlchemy==1.4.39
 pandocfilters==1.4.3
 parso==0.8.1
 pickleshare==0.7.5
